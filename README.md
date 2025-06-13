@@ -1,16 +1,25 @@
-# week1
+# Flutter Speech to Text App
 
-A new Flutter project.
+A simple Flutter application that converts speech to text in real-time using the device's microphone.
 
-## Getting Started
+![App Screenshot](screenshot.png) <!-- Add a screenshot if available -->
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Real-time speech recognition without whisper ai
+- Confidence level display
+- Cross-platform (Android & iOS)
+- Simple and intuitive UI
+- Proper permission handling
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK (latest stable version)
+- Android Studio/Xcode (for emulator/simulator)
+- Physical device recommended for best results
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/week1.git
